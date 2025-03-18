@@ -1,2 +1,3 @@
 # CR_DL_FU
-Github code for Deep learning for lesion-specific detection of change in follow-up chest radiographs
+Github code for 
+"Automated evaluation of pulmonary lesion changes on chest radiograph during follow-up using semantic segmentation"
