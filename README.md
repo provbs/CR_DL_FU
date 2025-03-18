@@ -2,6 +2,6 @@
 
 <br>
 * [MI2RL](https://www.mi2rl.co/)@Asan Medical Center, South Korea
-* <b>"Automated evaluation of pulmonary lesion changes on chest radiograph during follow-up using semantic segmentation"<b>
+<br>* <b>"Automated evaluation of pulmonary lesion changes on chest radiograph during follow-up using semantic segmentation"<b>
 
 
