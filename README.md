@@ -1,6 +1,4 @@
-# CR_DL_FU
-
-**Automated evaluation of pulmonary lesion changes on chest radiograph during follow-up using semantic segmentation**
+# Automated evaluation of pulmonary lesion changes on chest radiograph during follow-up using semantic segmentation
 
 <p align="center"><img src='./MI2RL_logo.png' width="440" height="150"></p>
 
