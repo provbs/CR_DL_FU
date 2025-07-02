@@ -15,8 +15,8 @@
 - **Youngjae Kim**† — Department of Biomedical Engineering (AMIST) & Department of Convergence Medicine, Asan Medical Center, University of Ulsan College of Medicine, Seoul, Republic of Korea  
 - **Yura Ahn**†, MD — 
 - **Han Na Noh** — 
-- **Jongjun Won**, 
-- **Chaewon Kim**,
+- **Jongjun Won** —
+- **Chaewon Kim** —
 - **Sang Min Lee**, MD, PhD —
 - **Hyunna Lee**, PhD* — Bigdata Research Center, Asan Institute for Life Science, Asan Medical Center, Seoul, Republic of Korea <hyunnalee@gmail.com>  
  
