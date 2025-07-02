@@ -16,8 +16,9 @@
 - **Yura Ahn**†, MD — 
 - **Han Na Noh** — 
 - **Jongjun Won**, 
-- **Chaewon Kim**, 
+- **Chaewon Kim**,
+- **Sang Min Lee**, MD, PhD —
 - **Hyunna Lee**, PhD* — Bigdata Research Center, Asan Institute for Life Science, Asan Medical Center, Seoul, Republic of Korea <hyunnalee@gmail.com>  
-- **Sang Min Lee**, MD, PhD* — 
+ 
 
 † Equal contribution · *Corresponding author
