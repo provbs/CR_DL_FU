@@ -12,7 +12,7 @@
 
 ### Author Affiliations
 
-- **Youngjae Kim**† — Department of Biomedical Engineering (AMIST) & Department of Convergence Medicine, Asan Medical Center, University of Ulsan College of Medicine, Seoul, Republic of Korea  
+- **Youngjae Kim**†, MSc — Department of Biomedical Engineering (AMIST) & Department of Convergence Medicine, Asan Medical Center, University of Ulsan College of Medicine, Seoul, Republic of Korea  
 - **Yura Ahn**†, MD — 
 - **Han Na Noh** — 
 - **Jongjun Won**, 
