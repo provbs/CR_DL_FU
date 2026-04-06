@@ -6,6 +6,10 @@
 - **Project**: Automated evaluation of pulmonary lesion changes on chest radiograph during follow-up using semantic segmentation  
 - **Authors**: Youngjae Kim†; Yura Ahn†; Sang Min Lee; Han Na Noh; Jongjun Won; Chaewon Kim; Hyunna Lee
 
+<p align="center">
+  <img src="./F2.png">
+</p>
+
 ### Publication
 [Automated evaluation of pulmonary lesion changes on chest radiograph during follow-up using semantic segmentation (DIR 2026)](https://www.dirjournal.org/articles/automated-evaluation-of-pulmonary-lesion-changes-on-chest-radiograph-during-follow-up-using-semantic-segmentation/doi/dir.2025.253567)
 
